@@ -1,0 +1,2 @@
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\Content\obj\x86\Debug\SnowBall FightContent.contentprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\Content\obj\x86\Debug\SnowBall FightContent.contentprojResolveAssemblyReference.cache

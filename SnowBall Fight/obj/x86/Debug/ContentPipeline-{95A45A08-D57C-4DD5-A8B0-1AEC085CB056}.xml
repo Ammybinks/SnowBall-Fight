@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Ground.png</Source>
+      <Name>Images\Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Ground.xnb</Output>
+      <Time>2010-02-11T16:23:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SnowBall.png</Source>
+      <Name>Images\SnowBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\SnowBall.xnb</Output>
+      <Time>2010-02-11T17:36:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SnowFort.png</Source>
+      <Name>Images\SnowFort</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\SnowFort.xnb</Output>
+      <Time>2010-04-08T01:37:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Arrow.png</Source>
+      <Name>Images\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Arrow.xnb</Output>
+      <Time>2010-02-12T14:55:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Reindeer1_Strip.png</Source>
+      <Name>Images\Reindeer1_Strip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Reindeer1_Strip.xnb</Output>
+      <Time>2010-04-09T10:28:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Reindeer2_Strip.png</Source>
+      <Name>Images\Reindeer2_Strip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Reindeer2_Strip.xnb</Output>
+      <Time>2010-04-25T11:29:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2010-02-18T22:55:00+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{95A45A08-D57C-4DD5-A8B0-1AEC085CB056}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-11-28T12:32:11.8690817+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

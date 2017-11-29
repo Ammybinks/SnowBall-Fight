@@ -1,0 +1,26 @@
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Ground.xnb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\SnowBall.xnb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\SnowFort.xnb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Arrow.xnb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Reindeer1_Strip.xnb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Reindeer2_Strip.xnb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\GameFont.xnb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\SnowBall Fight.exe
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\bin\x86\Debug\SnowBall Fight.pdb
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\obj\x86\Debug\SnowBall Fight.csprojResolveAssemblyReference.cache
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\obj\x86\Debug\SnowBall Fight.exe
+C:\TeenCoder\Game Programming\Activity Starters\SnowBall Fight\SnowBall Fight\obj\x86\Debug\SnowBall Fight.pdb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Ground.xnb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\SnowBall.xnb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\SnowFort.xnb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Arrow.xnb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Reindeer1_Strip.xnb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\Images\Reindeer2_Strip.xnb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\Content\GameFont.xnb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\SnowBall Fight.exe
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\bin\x86\Debug\SnowBall Fight.pdb
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\obj\x86\Debug\SnowBall Fight.csprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\obj\x86\Debug\SnowBall Fight.exe
+D:\Users\nye\Documents\GitHub\To Add\SnowBall Fight\SnowBall Fight\obj\x86\Debug\SnowBall Fight.pdb
